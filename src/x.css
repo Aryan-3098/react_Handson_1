@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#main{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+p{
+    color: red;
+}
+.heading{
+    border: 2px solid darkblue;
+    background-color: blue;
+    color: white;
+    display: block;
+}
